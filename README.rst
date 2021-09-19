@@ -44,3 +44,7 @@ is needed.
 
 https://docs.saltproject.io/en/latest/ref/states/all/salt.states.saltmod.html#salt.states.saltmod.wait_for_event
 https://docs.saltproject.io/en/latest/ref/states/all/salt.states.event.html#salt.states.event.wait
+
+Debugging Event:
+
+https://docs.saltproject.io/en/latest/topics/event/events.html#listening-for-events
