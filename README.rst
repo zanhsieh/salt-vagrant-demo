@@ -41,3 +41,6 @@ https://stackoverflow.com/questions/49252768/trigger-event-on-master-and-wait-fo
 
 The official code does not show how custom event work. I then poked around saltutil.sync_all
 is needed.
+
+https://docs.saltproject.io/en/latest/ref/states/all/salt.states.saltmod.html#salt.states.saltmod.wait_for_event
+https://docs.saltproject.io/en/latest/ref/states/all/salt.states.event.html#salt.states.event.wait
